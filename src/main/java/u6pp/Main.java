@@ -1,12 +1,11 @@
 package u6pp;
 
 public class Main {
+
     public static void main(String[] args) {
-        System.out.println("Welcome to u6pp! :)\nGood luck!");
 
-        //UnoFrontend game = new UnoFrontend();
-        //game.play();
+        // Empty main method
+        // Tests do not use this class
 
-        // use this space to test your code :)
     }
 }
